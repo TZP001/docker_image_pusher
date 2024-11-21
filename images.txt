@@ -4,4 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-tzp001
+
+tzp001/tzp001:diy-debian-full
+tzp001/tzp001:diy-debian-slim
+tzp001/tzp001:grass
+tzp001/tzp001:grass-slim
