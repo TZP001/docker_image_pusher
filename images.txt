@@ -5,7 +5,10 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-tzp001/tzp001:diy-debian-slim
-tzp001/tzp001:grass-slim
+#tzp001/tzp001:diy-debian-slim
+#tzp001/tzp001:grass-slim
 
-tzp001/tzp001:grass
+#tzp001/tzp001:grass
+whyour/qinglong:latest
+adguard/adguardhome:latest
+linuxserver/pairdrop:latest
