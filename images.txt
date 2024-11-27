@@ -12,3 +12,4 @@
 whyour/qinglong:latest
 adguard/adguardhome:latest
 linuxserver/pairdrop:latest
+cloudflare/cloudflared:latest
